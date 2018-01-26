@@ -1,5 +1,0 @@
-<ivy-module xmlns:m='http://ant.apache.org/ivy/maven' version='2.0'>
-  <info organisation='com.intershop' module='component2' revision='2.0.0' />
-  <publications />
-  <dependencies />
-</ivy-module>
