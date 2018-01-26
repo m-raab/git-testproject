@@ -1,0 +1,10 @@
+<ivy-module xmlns:m='http://ant.apache.org/ivy/maven' version='2.0'>
+  <info organisation='com.intershop.other' module='filter' revision='2.0.0' />
+  <publications />
+  <dependencies>
+    <dependency org='com.intershop.other' name='component1' rev='2.0.0' transitive='true' />
+    <dependency org='com.intershop.other' name='component2' rev='2.0.0' transitive='true' />
+    <dependency org='com.intershop.other' name='depfilter' rev='2.0.0' transitive='true' />
+    <dependency org='org.apache.tomcat' name='tomcat-catalina' rev='9.2.0' transitive='true' />
+  </dependencies>
+</ivy-module>
