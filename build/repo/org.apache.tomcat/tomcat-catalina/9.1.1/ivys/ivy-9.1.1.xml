@@ -1,0 +1,5 @@
+<ivy-module xmlns:m='http://ant.apache.org/ivy/maven' version='2.0'>
+  <info organisation='org.apache.tomcat' module='tomcat-catalina' revision='9.1.1' />
+  <publications />
+  <dependencies />
+</ivy-module>
