@@ -1,8 +1,0 @@
-<ivy-module xmlns:m='http://ant.apache.org/ivy/maven' version='2.0'>
-  <info organisation='com.intershop' module='filter' revision='2.0.0' />
-  <publications />
-  <dependencies>
-    <dependency org='com.intershop' name='component1' rev='2.0.0' transitive='true' />
-    <dependency org='com.intershop' name='component2' rev='2.0.0' transitive='true' />
-  </dependencies>
-</ivy-module>
